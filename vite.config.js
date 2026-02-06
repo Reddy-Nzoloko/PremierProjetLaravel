@@ -10,6 +10,7 @@ export default defineConfig({
         }),
         tailwindcss(),
     ],
+    // suppressions de vites projet d'amusement 
     server: {
         watch: {
             ignored: ['**/storage/framework/views/**'],
