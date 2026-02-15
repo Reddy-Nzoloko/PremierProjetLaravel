@@ -4,3 +4,4 @@ create table utilisateur()
 create table produit()
 ceeate table mouvement()
 create table vente();
+create table achat(); 
