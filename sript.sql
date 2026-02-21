@@ -7,3 +7,4 @@ create table vente();
 create table achat(); 
 php arrisan fresh 
 update table(); 
+select table();
