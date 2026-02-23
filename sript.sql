@@ -9,3 +9,4 @@ php arrisan fresh
 update table(); 
 select table();
 use laravel()
+// les xommendes de base de donneee 
